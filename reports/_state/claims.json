@@ -1,0 +1,392 @@
+[
+  {
+    "id": "CLM_898e2ff7",
+    "statement": "Job categories most exposed include white-collar jobs, creative sectors, and professional services, as AI continues to automate these tasks.",
+    "agent_role": "qual_builder",
+    "confidence": 0.7,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050418_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-19T05:04:18"
+  },
+  {
+    "id": "CLM_22675af6",
+    "statement": "Major companies have begun extensive layoffs due to automation technologies, totaling over 100,000 in previous years.",
+    "agent_role": "qual_builder",
+    "confidence": 0.6,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050418_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-19T05:04:18"
+  },
+  {
+    "id": "CLM_85e4ea59",
+    "statement": "Wage polarization is occurring as high-skill jobs leveraging AI see increases while low-skill positions stagnate.",
+    "agent_role": "qual_builder",
+    "confidence": 0.65,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050418_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-19T05:04:18"
+  },
+  {
+    "id": "CLM_56b81cb5",
+    "statement": "Governments are expected to initiate regulations and reskilling programs in response to the impact of AI on employment.",
+    "agent_role": "qual_builder",
+    "confidence": 0.6,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050418_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-19T05:04:18"
+  },
+  {
+    "id": "CLM_123d061c",
+    "statement": "The Federal Reserve has expressed concerns regarding structural unemployment due to AI advancements.",
+    "agent_role": "qual_builder",
+    "confidence": 0.5,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050418_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-19T05:04:18"
+  },
+  {
+    "id": "CLM_0fd092d9",
+    "statement": "Tech sector (QQQ) returned +129.0% from Jan 2023 to Mar 2026",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_aa9a940b",
+    "statement": "S&P 500 returned +73.2% from Jan 2023 to Mar 2026",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_74943d56",
+    "statement": "Small-cap index (IWM) returned +47.6% from Jan 2023 to Mar 2026",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_32b4e123",
+    "statement": "Tech sector outperformed labor-intensive small-cap by 81.4 percentage points",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "core",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_a984f609",
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_30a4819a",
+    "statement": "High-skill sectors (Tech, Finance) returned +134.0% from Jan 2023 to Mar 2026",
+    "agent_role": "quant_builder",
+    "confidence": 0.9,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_73baa84c",
+    "statement": "Low-skill sectors (Retail, Hospitality) returned +27.2% from Jan 2023 to Mar 2026",
+    "agent_role": "quant_builder",
+    "confidence": 0.9,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_c650c525",
+    "statement": "Wage divergence between high-skill and low-skill sectors: 106.8 percentage points",
+    "agent_role": "quant_builder",
+    "confidence": 0.9,
+    "materiality": "core",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_a984f609",
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_7ea999c7",
+    "statement": "VIX averaged 17.3 across 2023-2026 period (vs. historical long-term mean ~15)",
+    "agent_role": "quant_builder",
+    "confidence": 0.92,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_59c83c2d",
+    "statement": "VIX peaked at 52.3 in August 2024, indicating significant market stress event",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_a984f609"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_89e11794",
+    "statement": "Professional Services sector has labor displacement risk score of 0.646 (highest among sectors analyzed)",
+    "agent_role": "quant_builder",
+    "confidence": 0.75,
+    "materiality": "core",
+    "kind": "risk",
+    "source_ids": [],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_098abc5d",
+    "statement": "Finance & Insurance sector has labor displacement risk score of 0.514",
+    "agent_role": "quant_builder",
+    "confidence": 0.75,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_28403c55",
+    "statement": "Creative & Media sector has labor displacement risk score of 0.504",
+    "agent_role": "quant_builder",
+    "confidence": 0.75,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_tech_vs_labor_intensive_sector_performan.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_index_labor_demand_sig.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_ai_impact_on_sectors_by_labor_displaceme.png",
+      "/tmp/projects/ai-labor-markets-run37/reports/01_wage_polarization_high_skill_vs_low_skil.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "CLM_d9328a61",
+    "statement": "VIX peaked at 38.6 on August 5, 2024",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_15a26319"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_employment_shock_augus.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050657_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:06:57"
+  },
+  {
+    "id": "CLM_d65f88b9",
+    "statement": "S&P 500 experienced an intramonth drawdown of -8.18% during August 2024",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_15a26319"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_employment_shock_augus.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050657_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:06:57"
+  },
+  {
+    "id": "CLM_0ac76802",
+    "statement": "August 2024 average VIX level was 19.3, above historical baseline of ~15",
+    "agent_role": "quant_builder",
+    "confidence": 0.9,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_15a26319"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_employment_shock_augus.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050657_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:06:57"
+  },
+  {
+    "id": "CLM_b34ec7fa",
+    "statement": "S&P 500 returned +24.01% for YTD 2024 despite August volatility",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_15a26319"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-run37/reports/01_market_volatility_employment_shock_augus.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050657_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-19T05:06:57"
+  }
+]

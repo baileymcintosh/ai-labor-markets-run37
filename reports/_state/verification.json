@@ -1,0 +1,32 @@
+{
+  "verdict": "FAIL",
+  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 21\n**Sources reviewed:** 2\n**Open agenda items:** 6\n\n## Findings\n1. [HIGH] Job categories most exposed include white-collar jobs, creative sectors, and professional services, as AI continues to automate these tasks. \u2014 Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.\n2. [HIGH] Major companies have begun extensive layoffs due to automation technologies, totaling over 100,000 in previous years. \u2014 Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.\n3. [HIGH] Wage polarization is occurring as high-skill jobs leveraging AI see increases while low-skill positions stagnate. \u2014 Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.\n4. [HIGH] Governments are expected to initiate regulations and reskilling programs in response to the impact of AI on employment. \u2014 Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.\n5. [HIGH] The Federal Reserve has expressed concerns regarding structural unemployment due to AI advancements. \u2014 Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts.",
+  "findings": [
+    {
+      "severity": "high",
+      "claim": "Job categories most exposed include white-collar jobs, creative sectors, and professional services, as AI continues to automate these tasks.",
+      "note": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Major companies have begun extensive layoffs due to automation technologies, totaling over 100,000 in previous years.",
+      "note": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Wage polarization is occurring as high-skill jobs leveraging AI see increases while low-skill positions stagnate.",
+      "note": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Governments are expected to initiate regulations and reskilling programs in response to the impact of AI on employment.",
+      "note": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "The Federal Reserve has expressed concerns regarding structural unemployment due to AI advancements.",
+      "note": "Core claim lacks one tier 1-3 source. Claim has no linked sources or data artifacts."
+    }
+  ],
+  "created_at": "2026-03-19T05:06:59"
+}

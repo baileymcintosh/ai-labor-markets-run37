@@ -1,0 +1,28 @@
+[
+  {
+    "id": "SRC_a984f609",
+    "title": "Tech (QQQ) Performance Jan 2023 - Mar 2026",
+    "url": "https://finance.yahoo.com",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance / yfinance",
+    "published_at": "",
+    "summary": "Nasdaq-100 index tracking large-cap tech firms including MSFT, NVDA, TSLA, GOOGL.",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050529_quant_builder_turn01.md",
+    "created_at": "2026-03-19T05:05:29"
+  },
+  {
+    "id": "SRC_15a26319",
+    "title": "S&P 500 & VIX Historical Daily Data",
+    "url": "https://finance.yahoo.com/",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance / yfinance",
+    "published_at": "",
+    "summary": "Live market data for S&P 500 (^GSPC) and VIX (^VIX) from Jan 2024 to Jan 2025.",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/ai-labor-markets-run37/reports/20260319_050657_quant_builder_turn02.md",
+    "created_at": "2026-03-19T05:06:57"
+  }
+]
